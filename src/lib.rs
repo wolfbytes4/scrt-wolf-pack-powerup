@@ -3,4 +3,4 @@ mod error;
 pub mod msg;
 pub mod state;
 mod rand;
-pub use crate::error::ContractError;
+pub use crate::error::ContractError; 
